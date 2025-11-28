@@ -1,4 +1,4 @@
-# C++/CLI Windows Forms – Common Issues & Solutions
+## C++/CLI Windows Forms 
+🎯 Bu doküman, C++/CLI Windows Forms projelerinde sık karşılaşılan `LNK1561 – "entry point must be defined"` hatasını ve çözüm yollarını özetlemek için oluşturulmuştur.  
+🚀 Daha fazla detay için [LNK1561 Çözüm](WindowsFormsErrors.md) sayfasını inceleyebilirsiniz.
 
-Bu doküman, C++/CLI Windows Forms projelerinde sık karşılaşılan hataları ve çözüm yollarını özetlemek için oluşturulmuştur.  
-Daha fazla detay için [Common Issues dokümanına](/WindowsFormsErrors.md) bakabilirsiniz.
